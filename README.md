@@ -25,7 +25,7 @@ My name is Oussama Gadria, I'm 22 years old and I'm a second-year Computer Scien
 
 <ul style="text-align: justify; text-justify: inter-word;">
 <li>
- 🔭 I’m currently looking for an end of study internship
+ 🔭 I’m currently looking for  internship
 </li>
  <br/>
 <li>
