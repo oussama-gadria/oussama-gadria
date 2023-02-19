@@ -27,10 +27,7 @@ My name is Oussama Gadria, I'm 22 years old and I'm a second-year Computer Scien
 <li>
  🔭 I’m currently looking for  internship
 </li>
- <br/>
-<li>
- ⏳ Exploring Google Cloud & Microsoft Azure
-</li>
+
  <br/>
  <li>
  👯 I’m looking to collaborate on open Source Project and to work as freelancer
@@ -54,7 +51,7 @@ My name is Oussama Gadria, I'm 22 years old and I'm a second-year Computer Scien
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> -->
 </span>
 
 <h4> Frameworks </h4>
@@ -74,8 +71,8 @@ My name is Oussama Gadria, I'm 22 years old and I'm a second-year Computer Scien
 <span>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
- <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+<!--   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+ <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"> -->
   
   
 </span>
