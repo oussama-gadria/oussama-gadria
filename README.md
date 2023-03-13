@@ -29,8 +29,8 @@ My name is Oussama Gadria, I'm 22 years old and I'm a second-year Computer Scien
 </li>
                                                            <br/>
                                                           <li>
- upwork freelancer
-                                                          <li>
+ 💡upwork freelancer
+                                                          </li>
  <br/>
  <li>
  👯 I’m looking to collaborate on open Source Project and to work as freelancer
