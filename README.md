@@ -20,7 +20,7 @@ My name is Oussama Gadria, I'm 22 years old and I'm a second-year Computer Scien
 
 ## 🙋‍♂️ About Me
 
-<img width="450px" height="350px"  align="right" alt="Github" src="https://github.com/hassenoueslati/hassenoueslati/blob/main/animation_500_kxa883sd.gif" />
+<img width="450px" height="350px"  align="right" alt="Github" src="https://github.com/oussama-gadria/oussama-gadria/blob/main/animation_500_kxa883sd.gif" />
 <br/>
 
 <ul style="text-align: justify; text-justify: inter-word;">
@@ -118,7 +118,7 @@ My name is Oussama Gadria, I'm 22 years old and I'm a second-year Computer Scien
  
  <p align="center">
    <a  href="https://github.com/oussama-gadria"><img alt="Gadria oussama Github Stats" src="https://github-readme-stats.vercel.app/api?username=oussama-gadria&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a align="center" href="https://github.com/hassenoueslati"><img alt="oussama-gadria Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-gadria&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a align="center" href="https://github.com/oussama-gadria"><img alt="oussama-gadria Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-gadria&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
  </p>
