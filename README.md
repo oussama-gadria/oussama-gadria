@@ -16,7 +16,7 @@
  
  
  
-My name is Oussama Gadria, I'm 22 years old and I'm a second-year Computer Science Engineering student at (ESPRIT) in Tunisia.<br>I am completely passionate about frontend and backend development. 
+My name is Oussama Gadria, I'm 22 years old and I'm a third Computer Science Engineering student at (ESPRIT) in Tunisia.<br>I am completely passionate about frontend and backend development. 
 
 ## 🙋‍♂️ About Me
 
