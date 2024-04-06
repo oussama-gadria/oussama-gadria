@@ -28,7 +28,7 @@ Prior to my internship at Airbus, I worked as a full-stack developer at VintoNet
 Before my professional role at VintoNet, I had an internship experience with Droxic in Serbia. During this time, I contributed to the development of an e-commerce website using Node.js, Express.js, and React, with MongoDB as the database. Our team adopted Scrum for project management, and we utilized Trello and Slack for smooth communication.
 
 ✅Internship at VintoNet, Tunisia (July - August 2022):
-My journey in tech began with an internship at VintoNet in Tunisia. Here, I developed a portal for motorcycle sites in France using Laravel. We utilized tools such as Slack and Trello for communication and project management, and GitHub for code storage. Styling was done using Tailwind CSS.
+My journey in tech began with an internship at VintoNet in Tunisia. Here, I developed a web application for freelancers using Dotnet/ReactJs . We utilized tools such as Slack and Trello for communication and project management, and GitHub for code storage. Styling was done using Tailwind CSS.
 
 🚀Throughout these experiences, I've embraced each new challenge and opportunity to learn, eagerly anticipating the next step in my journey in the world of software engineering.🌟 
 
