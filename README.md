@@ -19,9 +19,9 @@
 🚀Hello! I'm Oussama Gadria, a software engineering student with a keen interest in web development and cloud technologies. Here's a summary of my journey in tech, starting from the most recent:
 
 ✅Internship at Airbus, Toulouse, France (March - September 2024):
-Currently, I'm working at Airbus for my final year project, where I'm involved in building a platform for connected airplanes. My responsibilities include using Node.js, Express.js, React, and MySQL for development, as well as Docker and Kubernetes for containerization and virtualization. Our team follows the Scrum methodology and utilizes Jira for project management.
+Currently, I'm working at Airbus for my final year project, where I'm involved in building a platform for connected airplanes. My responsibilities include using SpringBoot , Node.js, Express.js, React, and MySQL for development, as well as Docker and Kubernetes for containerization and virtualization. Our team follows the Scrum methodology and utilizes Jira for project management.
 
-✅Professional Role at VintoNet, Tunisia (October 2023 - February 2024):
+✅Professional Role at VintoNet, Tunisia (October 2023 - February 2024): 
 Prior to my internship at Airbus, I worked as a full-stack developer at VintoNet in Tunisia. During this role, I undertook a project that involved complex web development using DotNet and React.js. Additionally, I gained experience in UI design with Stitches UI and Chakra UI. I also had the opportunity to deploy applications on Clever Cloud, further enhancing my skills in cloud technologies. Our team followed the Scrum framework and utilized Slack and Trello for communication and task management.
 
 ✅Internship in Serbia with Droxic (July - September 2023):
