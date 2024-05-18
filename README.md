@@ -22,13 +22,13 @@
 Currently, I'm working at Airbus for my final year project, where I'm involved in building a platform for connected airplanes. My responsibilities include using SpringBoot , Node.js, Express.js, React, and MySQL for development, as well as Docker and Kubernetes for containerization and virtualization. Our team follows the Scrum methodology and utilizes Jira for project management.
 
 ✅Professional Role at VintoNet, Tunisia (October 2023 - February 2024): 
-Prior to my internship at Airbus, I worked as a full-stack developer at VintoNet in Tunisia. During this role, I undertook a project that involved complex web development using DotNet and React.js. Additionally, I gained experience in UI design with Stitches UI and Chakra UI. I also had the opportunity to deploy applications on Clever Cloud, further enhancing my skills in cloud technologies. Our team followed the Scrum framework and utilized Slack and Trello for communication and task management.
+Prior to my internship at Airbus, I worked as a full-stack developer at VintoNet in Tunisia. During this role, I undertook a project that involved complex web development using SpringBoot and React.js. Additionally, I gained experience in UI design with Stitches UI and Chakra UI. I also had the opportunity to deploy applications on Clever Cloud, further enhancing my skills in cloud technologies. Our team followed the Scrum framework and utilized Slack and Trello for communication and task management.
 
 ✅Internship in Serbia with Droxic (July - September 2023):
 Before my professional role at VintoNet, I had an internship experience with Droxic in Serbia. During this time, I contributed to the development of an e-commerce website using Node.js, Express.js, and React, with MongoDB as the database. Our team adopted Scrum for project management, and we utilized Trello and Slack for smooth communication.
 
 ✅Internship at VintoNet, Tunisia (July - August 2022):
-My journey in tech began with an internship at VintoNet in Tunisia. Here, I developed a web application for freelancers using Dotnet/ReactJs . We utilized tools such as Slack and Trello for communication and project management, and GitHub for code storage. Styling was done using Tailwind CSS.
+My journey in tech began with an internship at VintoNet in Tunisia. Here, I developed a web application for freelancers using SpringBoot/ReactJs . We utilized tools such as Slack and Trello for communication and project management, and GitHub for code storage. Styling was done using Tailwind CSS.
 
 🚀Throughout these experiences, I've embraced each new challenge and opportunity to learn, eagerly anticipating the next step in my journey in the world of software engineering.🌟 
 
@@ -63,6 +63,8 @@ My journey in tech began with an internship at VintoNet in Tunisia. Here, I deve
 
 <h4> Frameworks </h4>
 <span>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+ <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
