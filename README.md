@@ -35,7 +35,7 @@
 
 ## 📊 LeetCode Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/oussama_gadria/lapor?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/oussama_gadria?ext=contest)
 
 
 ## 📊 GitHub Stats 
