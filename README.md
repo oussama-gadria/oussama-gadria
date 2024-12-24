@@ -33,23 +33,13 @@
 ### IDEs
 - Visual Studio Code, Visual Studio, IntelliJ IDEA, WebStorm
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/oussama-gadria">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussama-gadria&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-  </a>
-</p>
-
 ## 📊 LeetCode Stats
 
 <p align="center">
-  <a href="https://leetcode.com/oussama_gadria">
-    <img src="https://leetcode-stats.azurewebsites.net/api?username=oussama_gadria&theme=dark&v=1" alt="LeetCode Stats"/>
-  </a>
+  [![Leetcode Stats](https://leetcode.com/u/oussama_gadria/](https://leetcode.com/u/oussama_gadria/)
 </p>
 
-## 📊 GitHub Stats (Detailed)
+## 📊 GitHub Stats 
 <p align="center">
   <a href="https://github.com/oussama-gadria">
     <img src="https://github-readme-stats.vercel.app/api?username=oussama-gadria&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
