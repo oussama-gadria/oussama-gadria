@@ -16,10 +16,10 @@
 
 ## 🚀 Skills
 ### Languages
-- HTML5, CSS3, JavaScript, TypeScript, Java, C#, C, C++
+- HTML5, CSS3, JavaScript, TypeScript, Java, Dart, C#, C, C++
 
 ### Frameworks
-- Angular, Spring Boot, React, Node.js, Express.js, Dotnet
+- Angular, Spring Boot, React, Node.js, Express.js
 
 ### DevOps
 - Jenkins, Docker, SonarQube, Prometheus, Grafana
