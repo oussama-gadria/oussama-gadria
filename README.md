@@ -36,7 +36,7 @@
 ## 📊 LeetCode Stats
 
 <p align="center">
-  [![Leetcode Stats](https://leetcode.com/u/oussama_gadria/](https://leetcode.com/u/oussama_gadria/)
+  ![Leetcode Stats](https://leetcode.com/u/oussama_gadria/leetcode?site=cn](https://leetcode.com/u/oussama_gadria/leetcode?site=cn)
 </p>
 
 ## 📊 GitHub Stats 
