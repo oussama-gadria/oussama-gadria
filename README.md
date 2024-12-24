@@ -2,7 +2,7 @@
  <h1>Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%"></h1>
  <br/>
  <a href = "https://www.linkedin.com/in/gadria-oussama-728290217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href = "mailto:gadria.oussama@esprit.tn"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ <a href = "mailto:oussamagadria1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
  <a href=https://leetcode.com/oussama_gadria/"><img src=" https://img.shields.io/badge/LeetCode-LeetCode-brightgreen" /></a>
 
 </div>
