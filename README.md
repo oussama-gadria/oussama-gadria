@@ -37,7 +37,7 @@
 
 <p align="center">
   ![Leetcode Stats](https://leetcode.com/u/oussama_gadria/leetcode?site=cn](https://leetcode.com/u/oussama_gadria/leetcode?site=cn)
-  [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=oussama_gadria)](https://github.com/KnlnKS/leetcode-stats)
+  ![Leetcode Stats](https://leetcard.jacoblin.cool/oussama_gadria)
 </p>
 
 ## 📊 GitHub Stats 
