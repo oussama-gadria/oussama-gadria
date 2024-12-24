@@ -11,26 +11,17 @@
 
 <br/>
 
- 
- 
- 
- 
- 
-🚀Hello! I'm Oussama Gadria, a software engineering student with a keen interest in web development and cloud technologies. Here's a summary of my journey in tech, starting from the most recent:
+🔹Software Engineer specializing in web development with Java, React, Angular, Node.js, JavaScript, Docker, and Kubernetes.
 
-✅Internship at Airbus, Toulouse, France (March - September 2024):
-Currently, I'm working at Airbus for my final year project, where I'm involved in building a platform for connected airplanes. My responsibilities include using SpringBoot , Node.js, Express.js, React, and MySQL for development, as well as Docker and Kubernetes for containerization and virtualization. Our team follows the Scrum methodology and utilizes Jira for project management.
+🔹Passionate about problem-solving and LeetCode, with over 100 problems solved.
 
-✅Professional Role at VintoNet, Tunisia (October 2023 - February 2024): 
-Prior to my internship at Airbus, I worked as a full-stack developer at VintoNet in Tunisia. During this role, I undertook a project that involved complex web development. Additionally, I gained experience in UI design with Stitches UI and Chakra UI. I also had the opportunity to deploy applications on Clever Cloud, further enhancing my skills in cloud technologies. Our team followed the Scrum framework and utilized Slack and Trello for communication and task management.
+🔹Full Stack Engineer Intern, Airbus (Toulouse, France): Developed a catering application using Java, React, and Spring Boot, reducing food waste by 25%.
 
-✅Internship in Serbia with Droxic (July - September 2023):
-Before my professional role at VintoNet, I had an internship experience with Droxic in Serbia. During this time, I contributed to the development of an e-commerce website using Node.js, Express.js, and React, with MongoDB as the database. Our team adopted Scrum for project management, and we utilized Trello and Slack for smooth communication.
+🔹Full Stack Engineer, VINTONET (Tunis, Tunisia): Built a SaaS platform for digitizing mechanic workshops using Spring Boot, React, Spring Security, Spring Data JPA, Hibernate, Clever Cloud, and Git.
 
-✅Internship at VintoNet, Tunisia (July - August 2022):
-My journey in tech began with an internship at VintoNet in Tunisia. Here, I developed a web application for freelancers using. We utilized tools such as Slack and Trello for communication and project management, and GitHub for code storage. Styling was done using Tailwind CSS.
+🔹Full Stack Engineer Intern, Droxic (Nis, Serbia): Developed an e-commerce site for a plant vendor using Node.js, React.js, MongoDB, and Express.js.
 
-🚀Throughout these experiences, I've embraced each new challenge and opportunity to learn, eagerly anticipating the next step in my journey in the world of software engineering.🌟 
+🔹Full Stack Engineer Intern, VINTONET (Tunis, Tunisia): Created an application for freelancer
 
 ## 🙋‍♂️ About Me
 
