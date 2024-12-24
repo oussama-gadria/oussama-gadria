@@ -35,7 +35,7 @@
 
 ## 📊 LeetCode Stats
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/oussama_gadria/?ext=activity)
+![Leetcode Stats](https://leetcard.jacoblin.cool/oussama_gadria?ext=activity)
 
 
 ## 📊 GitHub Stats 
