@@ -21,22 +21,7 @@
 
 🔹Full Stack Engineer Intern, Droxic (Nis, Serbia): Developed an e-commerce site for a plant vendor using Node.js, React.js, MongoDB, and Express.js.
 
-🔹Full Stack Engineer Intern, VINTONET (Tunis, Tunisia): Created an application for freelancer
-
-## 🙋‍♂️ About Me
-
-<img width="450px" height="350px"  align="right" alt="Github" src="https://github.com/oussama-gadria/oussama-gadria/blob/main/animation_500_kxa883sd.gif" />
-<br/>
-
-<ul style="text-align: justify; text-justify: inter-word;">                                      
- <br/>
- <li>
- 💡 I'm interested with cloud & Web Development
-  </li>
- <br/>
- <br/>
- 
-</ul>
+🔹Full Stack Engineer Intern, VINTONET (Tunis, Tunisia): Created an application for freelancer using Spring Boot, Angular, and MySQL.
 
 <!----## 🚀 Languages and Tools: ---->
 ## 🚀 Skills
