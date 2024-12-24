@@ -96,6 +96,15 @@
     <br/>
 </p>
 <br/>
+## 📊 LeetCode Stats
+
+<p align="center">
+  <a href="https://leetcode.com/oussama_gadria">
+    <img src="https://leetcode-stats.azurewebsites.net/api?username=oussama_gadria&theme=light&v=1" alt="LeetCode Stats"/>
+  </a>
+</p>
+
+
  
  <p align="center">
    <a  href="https://github.com/oussama-gadria"><img alt="Gadria oussama Github Stats" src="https://github-readme-stats.vercel.app/api?username=oussama-gadria&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
