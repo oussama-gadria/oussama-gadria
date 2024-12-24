@@ -1,124 +1,70 @@
 <div align="center">
- <h1>Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%"></h1>
- <br/>
- <a href = "https://www.linkedin.com/in/gadria-oussama-728290217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- <a href = "mailto:oussamagadria1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
- <a href=https://leetcode.com/oussama_gadria/"><img src=" https://img.shields.io/badge/LeetCode-LeetCode-brightgreen" /></a>
-
+  <h1>Hello World <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="4%"></h1>
+  <br/>
+  <a href="https://www.linkedin.com/in/gadria-oussama-728290217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:oussamagadria1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://leetcode.com/oussama_gadria/"><img src="https://img.shields.io/badge/LeetCode-LeetCode-brightgreen"/></a>
 </div>
 
-<br/>
+## 🔹 About Me
+- **Software Engineer** specializing in web development: Java, React, Angular, Node.js, JavaScript, Docker, Kubernetes.
+- Passionate about problem-solving and **LeetCode**, with over 100 problems solved.
+- **Full Stack Engineer Intern**, Airbus: Developed a catering application with Java, React, and Spring Boot, reducing food waste by 25%.
+- **Full Stack Engineer**, VINTONET: Built a SaaS platform for digitizing mechanic workshops with Spring Boot, React, and more.
+- **Full Stack Engineer Intern**, Droxic: Developed an e-commerce site using Node.js, React.js, and MongoDB.
+- **Full Stack Engineer Intern**, VINTONET: Created an application for freelancers with Spring Boot, Angular, and MySQL.
 
-🔹Software Engineer specializing in web development with Java, React, Angular, Node.js, JavaScript, Docker, and Kubernetes.
-
-🔹Passionate about problem-solving and LeetCode, with over 100 problems solved.
-
-🔹Full Stack Engineer Intern, Airbus (Toulouse, France): Developed a catering application using Java, React, and Spring Boot, reducing food waste by 25%.
-
-🔹Full Stack Engineer, VINTONET (Tunis, Tunisia): Built a SaaS platform for digitizing mechanic workshops using Spring Boot, React, Spring Security, Spring Data JPA, Hibernate, Clever Cloud, and Git.
-
-🔹Full Stack Engineer Intern, Droxic (Nis, Serbia): Developed an e-commerce site for a plant vendor using Node.js, React.js, MongoDB, and Express.js.
-
-🔹Full Stack Engineer Intern, VINTONET (Tunis, Tunisia): Created an application for freelancer using Spring Boot, Angular, and MySQL.
-
-<!----## 🚀 Languages and Tools: ---->
 ## 🚀 Skills
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
- <img src="https://img.shields.io/badge/C#-ED8B00?style=for-the-badge&logo=C#&logoColor=white">
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-</span>
+### Languages
+- HTML5, CSS3, JavaScript, TypeScript, Java, C#, C, C++
 
+### Frameworks
+- Angular, Spring Boot, React, Node.js, Express.js, Dotnet
 
-<h4> Frameworks </h4>
-<span>
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
- <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/Dotnet-000000?style=for-the-badge&logo=express&logoColor=white">
-</span>
+### DevOps
+- Jenkins, Docker, SonarQube, Prometheus, Grafana
 
-<h4> DevOps technologies </h4>
-<span> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Nexus-DB6200?style=for-the-badge&logo=sonatype-nexus&logoColor=white"> <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"> 
-</span>
+### Databases
+- MySQL, MongoDB, PostgreSQL
 
-<h4> Databases </h4>
-<span>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  
-  
-</span>
+### Tools
+- Git, Postman, Xampp, Canva, Agile
 
-<h4> IDE </h4>
-<span>
-<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
-<img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white">
-<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
- 
+### IDEs
+- Visual Studio Code, Visual Studio, IntelliJ IDEA, WebStorm
 
-<h4> Operating System </h4>
-<span>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-</span>
+## 📊 GitHub Stats
 
-<h4> Other Tools and Technologies </h4>
-<span>
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
-  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
-  <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white">
-<img src="https://img.shields.io/badge/Agile-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white">
-  
- 
-</span>
-<br/>
-
-## 📊 My Github Stats
-         
-  <p align="center">
-    <a href="https://github.com/oussama-gadria">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Gadria oussama streak" src="https://github-readme-streak-stats.herokuapp.com/?user=oussama-gadria&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-    <br/>
+<p align="center">
+  <a href="https://github.com/oussama-gadria">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=oussama-gadria&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
 </p>
-<br/>
+
 ## 📊 LeetCode Stats
 
 <p align="center">
   <a href="https://leetcode.com/oussama_gadria">
-    <img src="https://leetcode-stats.azurewebsites.net/api?username=oussama_gadria&theme=light&v=1" alt="LeetCode Stats"/>
+    <img src="https://leetcode-stats.azurewebsites.net/api?username=oussama_gadria&theme=dark&v=1" alt="LeetCode Stats"/>
   </a>
 </p>
 
+## 📊 GitHub Stats (Detailed)
+<p align="center">
+  <a href="https://github.com/oussama-gadria">
+    <img src="https://github-readme-stats.vercel.app/api?username=oussama-gadria&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/oussama-gadria">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-gadria&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+</p>
 
- 
- <p align="center">
-   <a  href="https://github.com/oussama-gadria"><img alt="Gadria oussama Github Stats" src="https://github-readme-stats.vercel.app/api?username=oussama-gadria&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a align="center" href="https://github.com/oussama-gadria"><img alt="oussama-gadria Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-gadria&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
- </p>
-
-<br/>
-<br/>
-
- ## ❤ Views and Followers
-<a href="https://github.com/oussama-gadria">
-    <img src="https://komarev.com/ghpvc/?username=oussama-gadria">
-</a>
-<a href="https://github.com/oussama-gadria?tab=followers"><img src="https://img.shields.io/github/followers/oussama-gadria?label=Followers&style=social" alt="GitHub Badge"></a>
-
+## ❤ Views and Followers
+<p align="center">
+  <a href="https://github.com/oussama-gadria">
+    <img src="https://komarev.com/ghpvc/?username=oussama-gadria" />
+  </a>
+  <a href="https://github.com/oussama-gadria?tab=followers">
+    <img src="https://img.shields.io/github/followers/oussama-gadria?label=Followers&style=social" alt="GitHub Badge" />
+  </a>
+</p>
