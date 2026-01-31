@@ -38,6 +38,7 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/oussama_gadria?ext=contest)
 
 
+<!--
 ## 📊 GitHub Stats 
 <p align="center">
   <a href="https://github.com/oussama-gadria">
@@ -47,6 +48,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussama-gadria&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
 </p>
+-->
+
 
 ## ❤ Views and Followers
 <p align="center">
