@@ -7,28 +7,21 @@
 </div>
 
 ## 🔹 About Me
-- **Software Engineer** specializing in web development: Java, React, Angular, Node.js, JavaScript, Docker, Kubernetes.
+- **Software Engineer** specializing in web development: Java, Angular, Spring, Docker, Kubernetes.
 - Passionate about problem-solving and **LeetCode**, with over 100 problems solved.
-- **Full Stack Engineer Intern**, Airbus: Developed a catering application with Java, React, and Spring Boot, reducing food waste by 25%.
-- **Full Stack Engineer**, VINTONET: Built a SaaS platform for digitizing mechanic workshops with Spring Boot, React, and more.
-- **Full Stack Engineer Intern**, Droxic: Developed an e-commerce site using Node.js, React.js, and MongoDB.
-- **Full Stack Engineer Intern**, VINTONET: Created an application for freelancers with Spring Boot, Angular, and MySQL.
 
 ## 🚀 Skills
 ### Languages
-- HTML5, CSS3, JavaScript, TypeScript, Java, Dart, C#, C, C++
+- HTML5, CSS3, JavaScript, TypeScript, Java, C
 
 ### Frameworks
-- Angular, Spring Boot, React, Node.js, Express.js
+- Angular, Spring Boot
 
 ### DevOps
 - Jenkins, Docker, SonarQube, Prometheus, Grafana
 
 ### Databases
 - MySQL, MongoDB, PostgreSQL
-
-### Tools
-- Git, Postman, Xampp, Canva, Agile
 
 ### IDEs
 - Visual Studio Code, Visual Studio, IntelliJ IDEA, WebStorm
